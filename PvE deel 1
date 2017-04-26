@@ -614,7 +614,7 @@ private, alleen bij hem bekende, sleutel en een publieke, voor iedereen
 toegankelijke, sleutel. De private en publieke sleutel van een gebruiker zijn
 onlosmakelijk met elkaar verbonden. De publieke sleutel mag worden verspreid
 (bijvoorbeeld in een database, vgl. een telefoonboek); de private sleutel dient
-zorgvuldig geheim gehouden te worden door de gebruiker.
+zorgvuldig geheim gehouden te worden door de gebruiker. Bij deze een kleine test om te zien hoe een change eruit ziet in Github
 
 
 
